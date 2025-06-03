@@ -1,7 +1,7 @@
 # Bridge Design
-## Date: 24 - 03 - 2025
+## Date: 21 - 05 - 2025
 
-### Developed By : **KABELAN G K - 212224110027**
+### Developed By : **BALASUBRAMANIAM L - 212224240020**
 
 ## AIM
 To create a 3D model of a bridge structure using Autodesk Fusion 360.
@@ -68,7 +68,8 @@ To create a 3D model of a bridge structure using Autodesk Fusion 360.
 ![BridgeDesign](image-1.png)
 
 ### Drawing
-![Bridge Drawing](image-2.png)
+![image](https://github.com/user-attachments/assets/95ba1722-2eae-4353-a36e-5c090336fb8d)
+
 
 ## RESULT
 Thus, the 3D model of the Bridge Design is successfully created using Fusion 360. (All files are uploaded)
